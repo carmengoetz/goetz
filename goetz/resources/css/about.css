@@ -200,3 +200,15 @@
         padding: 0 100px 20px 20px;
     }
 }
+
+.team-member {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.team-member img {
+    width: 300px;
+    height: 300px;
+    border: 7px solid #fff;
+}

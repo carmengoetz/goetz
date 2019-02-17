@@ -1,19 +1,28 @@
 @media (min-width: 768px) {
     header.masthead {
         margin-top: 100px;
-        background-image: url("../images/apple-blank-business-442574.jpg");
+        background-image: url("../images/computer-desk-electronics-238118.jpg");
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-position: center center;
         background-size: cover;
     }
+
+    .skill-row {
+        margin-bottom: 30px;
+    }
 }
 
-.service-heading {
+#skills {
+    background-color: #202326;
+    margin-top: 50px;
+}
+
+.skill-heading {
     margin: 15px 0;
     text-transform: none;
 }
 
-h2 {
+h2, h4 {
     color: #9DC5CA;
 }
