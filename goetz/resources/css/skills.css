@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+    header.masthead {
+        margin-top: 100px;
+        background-image: url("../images/apple-blank-business-442574.jpg");
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center center;
+        background-size: cover;
+    }
+}
+
+.service-heading {
+    margin: 15px 0;
+    text-transform: none;
+}
+
+h2 {
+    color: #9DC5CA;
+}
