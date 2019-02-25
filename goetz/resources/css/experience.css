@@ -14,6 +14,26 @@
     margin-top: 50px;
 }
 
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+.carousel-control-prev {
+    margin-left: -100px;
+}
+
+.carousel-control-next {
+    margin-right: -100px;
+}
+
+.fa-angle-left, .fa-angle-right {
+    color: grey;
+    font-size: 40px;
+    padding-bottom: 100px;
+}
+
+
 h2, h4 {
     color: #9DC5CA;
 }
