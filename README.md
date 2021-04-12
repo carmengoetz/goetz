@@ -1,2 +1,3 @@
-# website
-Carmen Goetz's personal website
+# Old Portfolio
+
+Where the code lives for Carmen Goetz's old portfolio website.
